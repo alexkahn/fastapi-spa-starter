@@ -1,0 +1,17 @@
+{
+  "name": "fastapi-spa",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "parcel build frontend/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  },
+  "dependencies": {
+    "mithril": "^2.2.2"
+  }
+}
